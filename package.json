@@ -1,5 +1,5 @@
 {
-  "name": "phy-reconnecting-websocket",
+  "name": "@phylite/phy-reconnecting-websocket",
   "version": "1.0.0",
   "description": "* EventEmitter is very simple, simply call addEventListener passing in an event name and a callback.",
   "main": "index.js",
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/phylite/phy-reconnecting-websocket.git"
   },
-  "author": "",
+  "author": "ashlin4010",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/phylite/phy-reconnecting-websocket/issues"
@@ -19,5 +19,9 @@
   "dependencies": {
     "@phylite/phy-event-emitter": "^1.0.0",
     "ws": "^7.2.1"
-  }
+  },
+  "directories": {
+    "example": "example"
+  },
+  "devDependencies": {}
 }
