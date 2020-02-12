@@ -4,6 +4,7 @@
  It has a number of extra event that can.
  
  ##Events
+ 
   * ``open`` Fired when the first connection with a WebSocket is opened.
   
   * ``close`` Fired when a connection with a WebSocket is closed and no further reconnects will be tried.
