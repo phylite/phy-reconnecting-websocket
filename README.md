@@ -3,7 +3,7 @@
  ReconnectingWebSocket is a simple WebSocket client that decorates the WebSocket API to provide a WebSocket connection that will automatically reconnect if the connection is dropped.
  It has a number of extra event that can.
  
- ##Events
+ ## Events
  
   * ``open`` Fired when the first connection with a WebSocket is opened.
   
